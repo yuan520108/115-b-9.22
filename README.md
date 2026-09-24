@@ -47,5 +47,6 @@ def hello():
     print("Hello")
 ```
 
+---
 
-![logo](./logo.png)
+![dog](https://github.com/yuan520108/115-b-9.22/blob/main/images.jpg)
